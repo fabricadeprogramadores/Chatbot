@@ -1,0 +1,20 @@
+Collecting chatterbot
+  Using cached ChatterBot-1.0.5-py2.py3-none-any.whl (67 kB)
+Collecting pint>=0.8.1
+  Using cached Pint-0.16.1-py2.py3-none-any.whl (205 kB)
+Collecting python-dateutil<2.8,>=2.7
+  Using cached python_dateutil-2.7.5-py2.py3-none-any.whl (225 kB)
+Collecting nltk<4.0,>=3.2
+  Using cached nltk-3.5.zip (1.4 MB)
+Collecting mathparse<0.2,>=0.1
+  Using cached mathparse-0.1.2-py3-none-any.whl (7.2 kB)
+Collecting pytz
+  Using cached pytz-2020.5-py2.py3-none-any.whl (510 kB)
+Collecting sqlalchemy<1.3,>=1.2
+  Using cached SQLAlchemy-1.2.19.tar.gz (5.7 MB)
+Collecting pymongo<4.0,>=3.3
+  Using cached pymongo-3.11.2-cp38-cp38-macosx_10_9_x86_64.whl (380 kB)
+Collecting pyyaml<5.2,>=5.1
+  Using cached PyYAML-5.1.2.tar.gz (265 kB)
+Collecting spacy<2.2,>=2.1
+  Using cached spacy-2.1.9.tar.gz (30.7 MB)
