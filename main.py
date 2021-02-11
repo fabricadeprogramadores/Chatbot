@@ -92,8 +92,7 @@ root.geometry('500x570+100+30')
 root.config(bg='rosybrown2')
 root.title("ChatBot criado pela Fábrica de Programadores")
 
-pic = PhotoImage(file='pic.png')
-picture_Label = Label(root, image=pic, bg='rosybrown2')
+picture_Label = Label(root, bg='rosybrown2')
 picture_Label.pack(pady=5)
 center_Frame = Frame(root)
 center_Frame.pack()
@@ -104,8 +103,7 @@ msglist.pack(side=LEFT, fill=BOTH)
 
 questionField = Entry(root, font='verdana,25,bold', bg='grey95', fg='grey2')
 questionField.pack(fill=X, pady=15)
-askphoto = PhotoImage(file='ask.png')
-btn = Button(root, image=askphoto, font='verdana,25', command=ask_from_bot)
+btn = Button(root, font='verdana,25', command=ask_from_bot)
 btn.pack()
 
 
